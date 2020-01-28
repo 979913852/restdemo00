@@ -6,6 +6,7 @@ package com.offcn.pojo;
  */
 public class PerSon {
     public static void main(String[] args) {
+        System.out.println("测试github新增");
         System.out.println("测试github更新");
     }
 }
